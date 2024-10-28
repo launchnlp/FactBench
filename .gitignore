@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+__pycache__/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# vscode
+.vscode/
+
+# data and results dirs
+data/
+lmsys_data/
+wiki_search.py
+
+# bash scripts:
+*.sh
+
+# logs: 
+*.out
+
+# data files
+*.csv
+*.json
+*.parquet
