@@ -1,6 +1,6 @@
 # 🔎 FactBench: A Dynamic Benchmark for In-the-Wild Language Model Factuality Evaluation
 <p align="center">
-| <a href="https://huggingface.co/spaces/launch/factbench"><b>🏆 Leaderboard</b></a> | <a href="https://arxiv.org/abs/2410.22257"><b>📑 arXiv</b></a> | <a href="https://x.com/FarimaFB/status/1851687188863533266"><b>🐦 Twitter/X</b></a> |
+| <a href="https://huggingface.co/spaces/launch/factbench"><b>🏆 Leaderboard</b></a> | <a href="https://huggingface.co/datasets/launch/FactBench"><b>📚 Dataset</b></a> | <a href="https://arxiv.org/abs/2410.22257"><b>📑 arXiv</b></a> | <a href="https://x.com/FarimaFB/status/1851752079318261933"><b>🐦 Twitter/X</b></a> |
 </p>
 
 This is the official code repo of our paper ["FactBench: A Dynamic Benchmark for In-the-Wild Language Model Factuality Evaluation"](https://huggingface.co/spaces/launch/factbench).
