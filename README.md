@@ -9,6 +9,7 @@ This repository contains:
 1. **FactBench**: A new dynamic factuality benchmark grounded in the real-world usage of LMs. All related codes for constructing the benchmark is under ``./FactBench`` folder.
 2. **VERIFY**: A factuality evaluation pipeline that considers the verifiability of generated content and categorizes units into *supported*, *unsupported*, or *undecidable* according to retrieval results. Codes available under ``./VERIFY`` folder.
 3. **Baselines** ([FActScore](https://github.com/shmsw25/FActScore), [SAFE](https://github.com/google-deepmind/long-form-factuality), [Factcheck-GPT](https://github.com/yuxiaw/Factcheck-GPT)): Related previous works that serve as our baselines. All baselines are accelerated and adapted to our framework. Codes available under ``./baselines`` folder.
+4. **Human Annotations**: Our annotations on 4,467 content units are available in [``./annotations.zip``](annotations.zip).
 
 
 ## Pipeline Diagram
